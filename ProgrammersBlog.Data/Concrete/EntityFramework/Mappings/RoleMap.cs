@@ -42,7 +42,6 @@ namespace ProgrammersBlog.Data.Concrete.EntityFramework.Mappings
                 ModifiedDate = DateTime.Now,
                 Note = "Admin Rolüdür."
             });
-
         }
     }
 }
