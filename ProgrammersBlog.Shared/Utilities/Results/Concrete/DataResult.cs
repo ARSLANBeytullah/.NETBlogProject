@@ -39,4 +39,3 @@ namespace ProgrammersBlog.Shared.Utilities.Results.Concrete
 
     }
 }
-}
